@@ -1,5 +1,5 @@
 BEGIN:VCARD
-VERSION:2.1
+VERSION:4.0
 N:NGUYEN;VENICE
 FN:VENICE NGUYEN
 ORG:Keller Williams Realty Centres;Real Estate Sales Representative
@@ -7,8 +7,8 @@ TITLE:REALTOR
 NOTE;ENCODING=QUOTED-PRINTABLE:REALTOR=0A=
 Real Estate Sales Representative=0A=
 Buy Sell Invest Lease Rent House Condo Properties
-TEL;WORK;VOICE:+19057268558
 TEL;CELL;VOICE:+14379850088
+TEL;WORK;VOICE:+19057268558
 ADR;WORK:;;117 Wellington Street East;Aurora;Ontario;L4G 1H9;Canada
 LABEL;WORK;ENCODING=QUOTED-PRINTABLE:117 Wellington Street East=0D=0A=
 Aurora  Ontario  L4G 1H9=0D=0A=
@@ -16,6 +16,8 @@ Canada
 X-MS-OL-DEFAULT-POSTAL-ADDRESS:0
 URL;HOME:www.venicehouserealty.com
 URL;WORK:www.venicehouserealty.com
+URL:https://www.linkedin.com/in/minimalistrealtor/
+URL:https://www.facebook.com/MinimalistRealtor/
 EMAIL;PREF;INTERNET:VeniceHouseRealty@gmail.com
 PHOTO;TYPE=JPEG;ENCODING=BASE64:
  /9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgK
